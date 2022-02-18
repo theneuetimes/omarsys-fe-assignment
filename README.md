@@ -1,2 +1,2 @@
-# omarsys-fe-assignment
+# omarsys-assignment2
 Created with CodeSandbox
